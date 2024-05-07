@@ -1,0 +1,29 @@
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.deps.json
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.pdb
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.csproj.AssemblyReference.cache
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.AssemblyInfoInputs.cache
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.AssemblyInfo.cs
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.csproj.CoreCompileInputs.cache
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.deps.json
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.AssemblyInfoInputs.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.AssemblyInfo.cs
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.csproj.CoreCompileInputs.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.pdb
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.deps.json
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.dll
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\bin\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.pdb
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.csproj.AssemblyReference.cache
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.AssemblyInfoInputs.cache
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.AssemblyInfo.cs
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.csproj.CoreCompileInputs.cache
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.dll
+D:\Assigement\C#\Bike Factory Extended Project\ClassLibraryBikeFactoryBusLayer\obj\Debug\netstandard2.0\ClassLibraryBikeFactoryBusLayer.pdb

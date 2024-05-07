@@ -1,0 +1,57 @@
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Employee_and_User.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Employee_and_User.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\HiTechClassLibrary.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\HiTechClassLibrary.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.AssemblyReference.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.GUI.FormEmployeeUser.resources
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.GenerateResource.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.CoreCompileInputs.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.CopyComplete
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Employee_and_User.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Employee_and_User.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\HiTechClassLibrary.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\HiTechClassLibrary.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.AssemblyReference.cache
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.GUI.FormEmployeeUser.resources
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.GenerateResource.cache
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.CoreCompileInputs.cache
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.CopyComplete
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Employee_and_User.dll
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Employee_and_User.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\HiTechClassLibrary.dll
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\HiTechClassLibrary.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.AssemblyReference.cache
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.GUI.FormEmployeeUser.resources
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.GenerateResource.cache
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.CoreCompileInputs.cache
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.csproj.CopyComplete
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.dll
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\Employee_and_User\obj\Debug\Employee_and_User.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\SystemLogin.exe
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Customer.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Book.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\SystemLogin.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\SystemLogin.exe.config
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Customer.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Book.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Order Management.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\EntityFramework.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Order Management.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Order Management.dll.config
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\EntityFramework.xml
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\SystemLogin.exe
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Customer.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Book.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Order Management.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\EntityFramework.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\SystemLogin.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\SystemLogin.exe.config
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Customer.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Book.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Order Management.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\Order Management.dll.config
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\Employee_and_User\bin\Debug\EntityFramework.xml

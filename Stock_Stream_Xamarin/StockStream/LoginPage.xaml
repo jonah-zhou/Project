@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StockStream.LoginPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#98F5F9">
+            <StackLayout VerticalOptions="CenterAndExpand" >
+                <Label Text="StockStream" TextColor="Black" FontSize="50"
+        HorizontalOptions="CenterAndExpand" 
+           Margin="40"/>
+                <Frame BorderColor="Black" CornerRadius="20" Padding="10" Margin="20">
+                    <Entry x:Name="entryUsername" Placeholder="enter username"></Entry>
+                </Frame>
+
+                <Frame BorderColor="Black" CornerRadius="20" Padding="10" Margin="20">
+                    <Entry x:Name="entryPassword" Placeholder="enter password"></Entry>
+                </Frame>
+
+                <Button x:Name="buttonLogin" Clicked="buttonLogin_Clicked" BackgroundColor="Beige" Text="Login" CornerRadius="20" Margin="120,20"></Button>
+            </StackLayout>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

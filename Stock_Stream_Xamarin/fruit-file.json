@@ -1,0 +1,90 @@
+[
+  {
+    "Name": "Apricot",
+    "Brand": "Iga",
+    "Quantity": 20,
+    "Price": 12.32,
+    "ImagePath": "https://th.bing.com/th/id/R.161b70de3500dd65253931faceecfd43?rik=0sNLHUgChLFtFg&pid=ImgRaw&r=0",
+    "SearchCount": 4
+  },
+  {
+    "Name": "Avocado",
+    "Brand": "Iga",
+    "Quantity": 10,
+    "Price": 10.32,
+    "ImagePath": "https://th.bing.com/th/id/R.c72d7edfe419495937dc5c02bbcd85e7?rik=hRc18WgImzh3iw&riu=http%3a%2f%2fmassageinflorida.com%2fblog%2fwp-content%2fuploads%2f2012%2f04%2fAvocado-5918425_l1.jpg&ehk=kQRbjSajWN54cFW8D1%2fm6wLdOE3Fz8mu5K7aGxN12Q0%3d&risl=&pid=ImgRaw&r=0",
+    "SearchCount": 2
+  },
+  {
+    "Name": "Blueberry",
+    "Brand": "Dollarama",
+    "Quantity": 30,
+    "Price": 5.32,
+    "ImagePath": "https://th.bing.com/th/id/OIP.xdBvltfjTqw9g-rS03nvwwHaFj?rs=1&pid=ImgDetMain",
+    "SearchCount": 5
+  },
+  {
+    "Name": "Cherry",
+    "Brand": "Dollarama",
+    "Quantity": 60,
+    "Price": 35.32,
+    "ImagePath": "https://th.bing.com/th/id/R.3c4c459894079d02e10cd21bc8228308?rik=TBnxBRXjPbSGhQ&riu=http%3a%2f%2fphotos.demandstudios.com%2fgetty%2farticle%2f103%2f239%2f475493018.jpg&ehk=7xsfAnqKhpT4pcdibfkmOq03zmcKpISLnMKy3hSwjEQ%3d&risl=&pid=ImgRaw&r=0",
+    "SearchCount": 9
+  },
+  {
+    "Name": "Durian",
+    "Brand": "Jean Coutu",
+    "Quantity": 15,
+    "Price": 85.29,
+    "ImagePath": "https://cdn.theculturetrip.com/wp-content/uploads/2019/08/c19k56.jpg",
+    "SearchCount": 4
+  },
+  {
+    "Name": "Grape",
+    "Brand": "Jean Coutu",
+    "Quantity": 85,
+    "Price": 15.29,
+    "ImagePath": "https://th.bing.com/th/id/OIP.b7MOSPv0T4RiD7Hl2rYO2AHaE8?rs=1&pid=ImgDetMain",
+    "SearchCount": 1
+  },
+  {
+    "Name": "Kiwifruit",
+    "Brand": "Jean Coutu",
+    "Quantity": 25,
+    "Price": 19.29,
+    "ImagePath": "https://th.bing.com/th/id/OIP.DeaWoLuZrk_wIcBbmz3IUQHaGR?rs=1&pid=ImgDetMain",
+    "SearchCount": 20
+  },
+  {
+    "Name": "Peach",
+    "Brand": "Jean Coutu",
+    "Quantity": 9,
+    "Price": 19.29,
+    "ImagePath": "https://th.bing.com/th/id/OIP.4JpE2JX5Jr1tEGj-FmSP7QAAAA?rs=1&pid=ImgDetMain",
+    "SearchCount": 16
+  },
+  {
+    "Name": "Strawberry",
+    "Brand": "Canadian Tire",
+    "Quantity": 18,
+    "Price": 49.29,
+    "ImagePath": "https://th.bing.com/th/id/R.d73a6c611a2af376ecaafa7309db1b44?rik=knwasU8P1DA9Jw&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fe%2fe1%2fStrawberries.jpg&ehk=BmIu9aQhH0HuCd3%2bCnSvd4HN%2b6GKM6Rgc2gY1tj%2bHrY%3d&risl=&pid=ImgRaw&r=0",
+    "SearchCount": 39
+  },
+  {
+    "Name": "Watermelon",
+    "Brand": "Canadian Tire",
+    "Quantity": 88,
+    "Price": 79.29,
+    "ImagePath": "https://th.bing.com/th/id/R.2a9ef4a83ad08cd3aa76ce7e4fafe106?rik=hFwQ%2bvZnBQxZ6A&pid=ImgRaw&r=0",
+    "SearchCount": 18
+  },
+  {
+    "Name": "Orange",
+    "Brand": "Canadian Tire",
+    "Quantity": 88,
+    "Price": 16.16,
+    "ImagePath": "https://th.bing.com/th/id/OIP.UJE-6wR2ilsfqZhcFnBNlgHaFj?rs=1&pid=ImgDetMain",
+    "SearchCount": 12
+  }
+]

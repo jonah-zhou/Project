@@ -1,0 +1,62 @@
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.AssemblyReference.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormBikeFactory.resources
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormLogin.resources
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.Properties.Resources.resources
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.GenerateResource.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CoreCompileInputs.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe.config
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryDataLayer.dll
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryBusLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryDataLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CopyComplete
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.exe
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\Project\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe.config
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryDataLayer.dll
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryBusLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryDataLayer.pdb
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.AssemblyReference.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormBikeFactory.resources
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormLogin.resources
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.Properties.Resources.resources
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.GenerateResource.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CoreCompileInputs.cache
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CopyComplete
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.exe
+C:\Users\saman\Downloads\Bike Factory - 3 Tiers\BikeFactory\WindowsFormsAppClientLayer\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.pdb
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe.config
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.pdb
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.AssemblyReference.cache
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.SuggestedBindingRedirects.cache
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormBikeFactory.resources
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormLogin.resources
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.Properties.Resources.resources
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.GenerateResource.cache
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CoreCompileInputs.cache
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CopyComplete
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.exe
+D:\Assigement\C#\Bike Factory - 3 Tiers\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.pdb
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe.config
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.exe
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\bin\Debug\WindowsFormsAppClientLayer.pdb
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.AssemblyReference.cache
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.SuggestedBindingRedirects.cache
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormBikeFactory.resources
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.FormLogin.resources
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.Properties.Resources.resources
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.GenerateResource.cache
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CoreCompileInputs.cache
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.csproj.CopyComplete
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.exe
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\obj\Debug\WindowsFormsAppClientLayer.pdb
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryDataLayer.dll
+D:\Assigement\C#\Bike Factory Extended Project\WindowsFormsAppClientLayer\bin\Debug\ClassLibraryBikeFactoryDataLayer.pdb

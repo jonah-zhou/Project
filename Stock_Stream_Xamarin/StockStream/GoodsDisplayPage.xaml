@@ -1,0 +1,44 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StockStream.GoodsDisplayPage">
+   
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Log out" Clicked="OnLogoutClicked" />
+        <ToolbarItem Text="Add" Clicked="OnAddClicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout Padding="10" BackgroundColor="#F99DD4">
+        <Label Text="Top 10 searched Goods" FontSize="Title" HorizontalOptions="Center" Margin="0,10,0,20" />
+
+        <CarouselView x:Name="carouselView">
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <Image Source="{Binding ImagePath}" >
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Image.GestureRecognizers>
+                    </Image>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+
+
+        <SearchBar x:Name="searchBar"
+                   Placeholder="Search items..."
+                   SearchButtonPressed="OnSearchButtonPressed"
+                   TextChanged="OnSearchTextChanged"
+                   Margin="0,20,0,10"/>
+
+        <Button Text="Search" Clicked="OnSearchButtonClicked" HorizontalOptions="End" Margin="0,0,10,10" BackgroundColor="Beige" CornerRadius="20"/>
+
+        <ListView x:Name="goodsListView" BackgroundColor="AntiqueWhite" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" TextColor="Blue" Tapped="TextCell_Tapped"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>
+

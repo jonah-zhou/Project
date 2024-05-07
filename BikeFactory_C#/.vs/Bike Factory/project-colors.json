@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ac3f961-c07e-4ff3-8a98-6644ed09b4fc": {
+      "ProjectGuid": "1ac3f961-c07e-4ff3-8a98-6644ed09b4fc",
+      "DisplayName": "Bike Factory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

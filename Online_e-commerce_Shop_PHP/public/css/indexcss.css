@@ -1,0 +1,54 @@
+/* public/css.css */
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.register-box, .login-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.register-box h2, .login-box h2 {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.index-input-row {
+    margin-bottom: 10px;
+}
+
+.index-input-row label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.index-input-row input[type="text"], 
+.index-input-row input[type="password"], 
+.index-input-row input[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 1rem;
+}
+
+.index-input-row input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.index-input-row input[type="submit"]:hover {
+    background-color: #3e8e41;
+}

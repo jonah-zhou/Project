@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StockStream.CreateGoodPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#28F1C1">
+            <Label Text="New Item" FontSize="Title" TextColor="Black" HorizontalOptions="CenterAndExpand" Margin="0,10,0,20"></Label>
+            <StackLayout Orientation="Horizontal">
+                <StackLayout Spacing="31" Margin="50,20,50,50">
+                    <Label Text="Name:" TextColor="Black"></Label>
+                    <Label Text="Brand:" TextColor="Black"></Label>
+                    <Label Text="Quantity:" TextColor="Black"></Label>
+                    <Label Text="Price:" TextColor="Black"></Label>
+                    <Label Text="Image:" TextColor="Black"></Label>
+                </StackLayout>
+                <StackLayout >
+                    <Frame WidthRequest="100" HorizontalOptions="CenterAndExpand" BorderColor="Black" Padding="0.05">
+                        <Entry x:Name="entryName"></Entry>
+                    </Frame>
+                    <Frame BorderColor="Black" Padding="0.05">
+                        <Entry x:Name="entryBrand"></Entry>
+                    </Frame>
+                    <Frame BorderColor="Black" Padding="0.05">
+                        <Entry x:Name="entryQuantity"></Entry>
+                    </Frame>
+                    <Frame BorderColor="Black" Padding="0.05">
+                        <Entry x:Name="entryPrice"></Entry>
+                    </Frame>
+
+                    <Image x:Name="selectedImage" Aspect="AspectFit" WidthRequest="100" HeightRequest="100"></Image>
+                    
+                </StackLayout>
+                <Button Margin="0,200,0,30" Text="Select" x:Name="selectImage" Clicked="SelectImage_Clicked" BackgroundColor="Beige" CornerRadius="20"></Button>
+            </StackLayout>
+            <Button Text="Add" x:Name="addItem" Clicked="AddItem_Clicked" Margin="100,30" BackgroundColor="Beige" CornerRadius="20"></Button>
+            
+            <StackLayout  Orientation="Horizontal">
+                <Label Margin="5,0" Text="Import from a file:" TextColor="Black"></Label>
+                
+                <Frame BorderColor="Black" WidthRequest="100" Padding="0.05" Margin="55,0,0,0">
+                    <Entry x:Name="entryChooseFile"></Entry>
+                </Frame>
+                <Button Text="Choose" x:Name="chooseFile" Clicked="ChooseFile_Clicked" BackgroundColor="Beige" CornerRadius="20"></Button>
+                <Button Text="Add File" x:Name="addFile" Clicked="AddFile_Clicked" BackgroundColor="Beige" CornerRadius="20"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04b311b3-d819-4a35-82da-613725ffe7a8": {
+      "ProjectGuid": "04b311b3-d819-4a35-82da-613725ffe7a8",
+      "DisplayName": "ClassLibraryBikeFactoryDataLayer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

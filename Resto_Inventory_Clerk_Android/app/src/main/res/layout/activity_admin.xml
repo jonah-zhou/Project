@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AdminActivity"
+    android:id="@+id/layoutAdminActivity"
+    >
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Administrator"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:id="@+id/tvLabelEmployeeId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Employee ID"
+        app:layout_constraintTop_toBottomOf="@id/tvTitle"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        />
+
+    <EditText
+        android:id="@+id/edEmployeeId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        app:layout_constraintBaseline_toBaselineOf="@id/tvLabelEmployeeId"
+        app:layout_constraintLeft_toRightOf="@id/tvLabelEmployeeId"
+        android:layout_marginLeft="30dp"
+        />
+
+    <TextView
+        android:id="@+id/tvLabelPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Position"
+        app:layout_constraintStart_toStartOf="@id/tvLabelEmployeeId"
+        app:layout_constraintTop_toBottomOf="@id/tvLabelEmployeeId"
+        android:layout_marginTop= "35dp"
+        />
+
+    <RadioGroup
+        android:id="@+id/rgPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        app:layout_constraintLeft_toRightOf="@id/tvLabelPosition"
+        android:layout_marginLeft="50dp"
+        app:layout_constraintTop_toBottomOf="@id/edEmployeeId"
+        android:layout_marginTop="10dp"
+
+        >
+        <RadioButton
+            android:id="@+id/rbManager"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Manager"
+            />
+
+        <RadioButton
+            android:id="@+id/rbStaff"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Staff"
+            />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tvLabelFirstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First Name"
+        app:layout_constraintStart_toStartOf="@id/tvLabelPosition"
+        app:layout_constraintTop_toBottomOf="@id/tvLabelPosition"
+        android:layout_marginTop="30dp"
+        />
+
+    <EditText
+        android:id="@+id/edFirstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        app:layout_constraintBaseline_toBaselineOf="@id/tvLabelFirstName"
+        app:layout_constraintStart_toStartOf="@id/edEmployeeId"
+        />
+
+    <TextView
+        android:id="@+id/tvLabelLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last Name"
+        app:layout_constraintStart_toStartOf="@id/tvLabelFirstName"
+        app:layout_constraintTop_toBottomOf="@id/tvLabelFirstName"
+        android:layout_marginTop="30dp"
+        />
+
+    <EditText
+        android:id="@+id/edLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        app:layout_constraintBaseline_toBaselineOf="@id/tvLabelLastName"
+        app:layout_constraintStart_toStartOf="@id/edFirstName"
+        />
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        app:layout_constraintStart_toStartOf="@id/tvLabelLastName"
+        app:layout_constraintTop_toBottomOf="@id/tvLabelLastName"
+        android:layout_marginTop="30dp"
+        />
+
+    <EditText
+        android:id="@+id/edEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBaseline_toBaselineOf="@id/tvEmail"
+        app:layout_constraintStart_toStartOf="@id/edLastName"
+        />
+
+    <TextView
+        android:id="@+id/tvPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        app:layout_constraintStart_toStartOf="@id/tvEmail"
+        app:layout_constraintTop_toBottomOf="@id/tvEmail"
+        android:layout_marginTop="30dp"
+        />
+
+    <EditText
+        android:id="@+id/edPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        app:layout_constraintBaseline_toBaselineOf="@id/tvPassword"
+        app:layout_constraintStart_toStartOf="@id/edEmail"
+        />
+    <ImageButton
+        android:id="@+id/imageButtonShowPassword"
+        android:layout_width="38dp"
+        android:layout_height="28dp"
+        android:src="@drawable/showthepassword"
+        app:layout_constraintLeft_toRightOf="@id/edPassword"
+        app:layout_constraintTop_toBottomOf="@id/tvEmail"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="25dp"
+        />
+
+
+
+
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvPassword"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="50dp"
+        android:background="@drawable/button_background"
+        />
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:background="@drawable/button_background"
+        app:layout_constraintBaseline_toBaselineOf="@id/btnSave"
+        app:layout_constraintLeft_toRightOf="@id/btnSave"
+        android:layout_marginLeft="20dp"
+        />
+
+    <Button
+        android:id="@+id/btnClear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clear"
+        app:layout_constraintBaseline_toBaselineOf="@id/btnSave"
+        app:layout_constraintLeft_toRightOf="@id/btnDelete"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/button_background"
+        />
+
+
+
+
+    <Button
+        android:id="@+id/btnReturn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Return"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/button_background"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

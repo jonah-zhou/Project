@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "711929422951",
+    "firebase_url": "https://kakurogamedb-default-rtdb.firebaseio.com",
+    "project_id": "kakurogamedb",
+    "storage_bucket": "kakurogamedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711929422951:android:1646a289f0413e6bc2a0c2",
+        "android_client_info": {
+          "package_name": "com.example.kakuro_game_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAAIO3VTw6taPL1GdNcNC4MZpiwKTCQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

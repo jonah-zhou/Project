@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StockStream.UpdateAccountPage">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#8CACEC">
+            <StackLayout VerticalOptions="CenterAndExpand" >
+                <Label Text="Update Account" TextColor="Black" FontSize="30"
+        HorizontalOptions="CenterAndExpand" 
+           Margin="40"/>
+                <Frame BorderColor="Black" CornerRadius="20" Padding="10" Margin="20">
+                    <Entry x:Name="updateUsername" Placeholder="admin" IsReadOnly="True"></Entry>
+                </Frame>
+
+                <Frame BorderColor="Black" CornerRadius="20" Padding="10" Margin="20">
+                    <Entry x:Name="oldPassword" Placeholder="Old Password"></Entry>
+                </Frame>
+
+                <Frame BorderColor="Black" CornerRadius="20" Padding="10" Margin="20">
+                    <Entry x:Name="newPassword" Placeholder="New Password"></Entry>
+                </Frame>
+
+                <Button x:Name="buttonUpdate" Clicked="buttonUpdate_Clicked" BackgroundColor="Beige" Text="UPDATE" CornerRadius="20" Margin="120,20"></Button>
+            </StackLayout>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

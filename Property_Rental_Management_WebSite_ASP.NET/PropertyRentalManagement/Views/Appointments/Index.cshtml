@@ -1,0 +1,67 @@
+﻿@model IEnumerable<PropertyRentalManagement.Models.Appointment>
+@using System.Security.Claims
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    var loggedInUserType = User.FindFirst(ClaimTypes.Role)?.Value;
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AppointmentDateTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apartment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PropertyManager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tenant)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppointmentDateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apartment.ApartmentNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PropertyManager.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tenant.UserName)
+            </td>
+            <td>             
+                 @if (loggedInUserType == "3")//tenant
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.AppointmentId">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.AppointmentId">Details</a>                        
+                    }
+                    else //admin and manager
+					{
+						 <a asp-action="Edit" asp-route-id="@item.AppointmentId">Edit</a>
+                         <a asp-action="Details" asp-route-id="@item.AppointmentId">Details</a>
+                         <a asp-action="Delete" asp-route-id="@item.AppointmentId">Delete</a>                    
+					}
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,6 @@
+﻿1) Publisher form: Select index of list view after search
+2) validate every input
+3) Cancel the order will return the quantity ordered by customer
+4) Don't list from database
+5) change comboBox author name into author ID, and get information in BookAuthor Form
+6) update database after modifying author and book at the same time in Book From

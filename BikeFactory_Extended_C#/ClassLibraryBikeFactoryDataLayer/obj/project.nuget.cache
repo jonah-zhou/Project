@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjvgqnuDg1PdXEAplmB4BX0RhSFjzFT3i2NGFpLrugb1wUwOQZZxtkOLcIH3qA+h2VfS1MsfcESM9Np6NKjwMg==",
+  "success": true,
+  "projectFilePath": "D:\\Assigement\\C#\\Bike Factory Extended Project\\ClassLibraryBikeFactoryDataLayer\\ClassLibraryBikeFactoryDataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jonah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/resto_inventory_clerk_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/resto_inventory_clerk_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Resto_Inventory_Clerk_Android"
+        tools:targetApi="31">
+        <activity
+            android:name=".AdvancedThresholdActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrderItemListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ManagerItemListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StaffItemListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StaffActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ManagerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

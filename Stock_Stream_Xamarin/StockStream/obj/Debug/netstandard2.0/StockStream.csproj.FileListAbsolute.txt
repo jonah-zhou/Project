@@ -1,0 +1,81 @@
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.AssemblyReference.cache
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\GoodsDisplayPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfoInputs.cache
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfo.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.CoreCompileInputs.cache
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.sourcelink.json
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\refint\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.pdb
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.deps.json
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\bin\Debug\netstandard2.0\ref\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.pdb
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.deps.json
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\ref\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.pdb
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.AssemblyReference.cache
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\GoodsDisplayPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfoInputs.cache
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfo.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.CoreCompileInputs.cache
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\refint\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.pdb
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\UpdateAccountPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.deps.json
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\bin\Debug\netstandard2.0\ref\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.pdb
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.AssemblyReference.cache
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\GoodsDisplayPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\UpdateAccountPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfoInputs.cache
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfo.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.CoreCompileInputs.cache
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\refint\StockStream.dll
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.pdb
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream 1\StockStream\StockStream\obj\Debug\netstandard2.0\CreateGoodPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\CreateGoodPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\obj\Debug\netstandard2.0\UpdateGoodsPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\CreateGoodPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\UpdateAccountPage.xaml.g.cs
+D:\Programming\Lasalle College\Winter 2024\MultiplePlatform\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\UpdateGoodsPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.deps.json
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\ref\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\bin\Debug\netstandard2.0\StockStream.pdb
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.AssemblyReference.cache
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\CreateGoodPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\GoodsDisplayPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\UpdateAccountPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\UpdateGoodsPage.xaml.g.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfoInputs.cache
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.AssemblyInfo.cs
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.csproj.CoreCompileInputs.cache
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.sourcelink.json
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\refint\StockStream.dll
+D:\Assignment\Multiplatform mobile\StockStream\StockStream\StockStream\obj\Debug\netstandard2.0\StockStream.pdb

@@ -1,0 +1,91 @@
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.AssemblyReference.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.SuggestedBindingRedirects.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.FormLogin.resources
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.Properties.Resources.resources
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.GenerateResource.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CoreCompileInputs.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe.config
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CopyComplete
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.exe
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Hi-Tech Order Management System.exe
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Hi-Tech Order Management System.exe.config
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe.config
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.AssemblyReference.cache
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.SuggestedBindingRedirects.cache
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.FormLogin.resources
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.Properties.Resources.resources
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.GenerateResource.cache
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CoreCompileInputs.cache
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CopyComplete
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.exe
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe.config
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.AssemblyReference.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.SuggestedBindingRedirects.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.FormLogin.resources
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.Properties.Resources.resources
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.GenerateResource.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CoreCompileInputs.cache
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CopyComplete
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.exe
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Employee_and_User.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Employee_and_User.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Employee_and_User.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Employee_and_User.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Customer.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Customer.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Book.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Customer.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Customer.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Book.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe.config
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.exe
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\SystemLogin.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Book.dll
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Customer.dll
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Employee_and_User.dll
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.dll
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Customer.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Employee_and_User.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\HiTechClassLibrary.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Book.pdb
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.AssemblyReference.cache
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.SuggestedBindingRedirects.cache
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.FormLogin.resources
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.Properties.Resources.resources
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.GenerateResource.cache
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CoreCompileInputs.cache
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.csproj.CopyComplete
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.exe
+C:\Truong\Project with Nan\Final_Project\Hi-Tech Order Management System\SystemLogin\obj\Debug\SystemLogin.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Order Management.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Order Management.pdb
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Order Management.dll.config
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.xml
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Truong\Lasalle College\Fall 2022\Project With Nan\Final_Project_Real\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Book.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Order Management.dll
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Book.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.xml
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Order Management.pdb
+D:\Assigement\Multi-tier\Final_Project\Hi-Tech Order Management System\SystemLogin\bin\Debug\Order Management.dll.config

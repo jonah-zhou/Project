@@ -1,0 +1,11 @@
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\obj\Debug\net6.0\BikeFactoryBusLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\obj\Debug\net6.0\BikeFactoryBusLayer.AssemblyInfoInputs.cache
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\obj\Debug\net6.0\BikeFactoryBusLayer.AssemblyInfo.cs
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\obj\Debug\net6.0\BikeFactoryBusLayer.csproj.CoreCompileInputs.cache
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\bin\Debug\net6.0\BikeFactoryBusLayer.deps.json
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\bin\Debug\net6.0\BikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\bin\Debug\net6.0\ref\BikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\bin\Debug\net6.0\BikeFactoryBusLayer.pdb
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\obj\Debug\net6.0\BikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\obj\Debug\net6.0\ref\BikeFactoryBusLayer.dll
+C:\Users\saman\Downloads\Project\BikeFactoryBusLayer\obj\Debug\net6.0\BikeFactoryBusLayer.pdb

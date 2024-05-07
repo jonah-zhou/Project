@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Portfolio Website</title>
+	<meta content="width=device-width" name="viewport">
+    <link rel="stylesheet" href="./css/style.css">   	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+</head>
+
+<body>
+    <div class="hero">
+        <nav>
+            <a href="#">
+			<img src="./img/logo.png" class="logo">
+			</a>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skill" onclick="move(),move1(),move2(),move3()">Skills</a></li>
+                <li><a href="#service">Service</a></li>
+                <li><a href="#certificate">Certificate</a></li>
+            </ul>
+            <a href="Contact.html" class="btn">Contact Me</a>
+        </nav>
+
+        <div class="content" id="about">
+            <span class="title">TESTER & INSTRUCTOR</span>
+            <h1>Hello, I’m <span>Zhou Nan</span></h1>
+            <table <table cellpadding="30">
+				<tr>
+                    <td>
+                        <label>Name:</label>
+                    </td>
+                    <td>
+                        <legend>Nan Zhou</legend>
+                    </td>
+					<td>
+                        <label>Phone:</label>
+                    </td>
+                    <td>
+                        <legend>+012 345 6789</legend>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <label>Birthday:</label>
+                    </td>
+                    <td>
+                        <legend>July 21</legend>
+                    </td>
+					<td>
+                        <label>Degree:</label>
+                    </td>
+                    <td>
+                        <legend>Bechelor</legend>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <label>Email:</label>
+                    </td>
+                    <td>
+                        <legend>info@example.com</legend>
+                    </td>
+					<td>
+                        <label>Address:</label>
+                    </td>
+                    <td>
+                        <legend>123 Street, Montreal, Canada</legend>
+                    </td>
+                </tr>
+				<tr>
+                    <td>
+                        <label>Experience:</label>
+                    </td>
+                    <td>
+                        <legend>10 Years</legend>
+                    </td>
+					<td>
+                        <label>Freelance:</label>
+                    </td>
+                    <td>
+                        <legend>Available</legend>
+                    </td>
+                </tr>
+			</table>
+            <a href="#skill" class="btn">Learn More</a>
+        </div>
+		<div class="arrow_container">
+			<a href="#skill">
+			  <div class="chevron"></div>
+			  <div class="chevron"></div>
+			  <div class="chevron"></div>
+			</a>
+		</div>
+    </div>
+	
+	
+	<!-- Skill Start -->
+    <div class="subcontent" id="skill" onmousewheel="move(),move1(),move2(),move3()">
+        <span class="title">My Skills</span>
+        <div>
+			<div class="progressField">    
+				<p>Integration Test:</p>
+				<div class="progress">
+					<div id="blueBar" class="progress-bar" style="background:blue;" ></div>
+				</div>
+				<p id="demo">95%</p>
+				<p>Performance Test:</p>
+				<div class="progress">
+					<div id="yellowBar" class="progress-bar" style="background:yellow;" ></div>
+				</div>
+				<p id="demo1">80%</p>
+			</div>
+			<div class="progressField">    
+				<p>Unit Test:</p>
+				<div class="progress">
+					<div id="redBar" class="progress-bar" style="background:red;" ></div>
+				</div>
+				<p id="demo2">65%</p>
+				<p>Security Test:</p>
+				<div class="progress">
+					<div id="greenBar" class="progress-bar" style="background:green;" ></div>
+				</div>
+				<p id="demo3">75%</p>
+			</div>
+		</div>
+	</div>
+	 
+	<script>
+	function move() {
+	  var elem = document.getElementById("blueBar");   
+	  var width = 10;
+	  var id = setInterval(frame, 10);
+	  function frame() {
+		if (width >= 95) {
+		  clearInterval(id);
+		} else {
+		  width++; 
+		  elem.style.width = width + '%'; 
+		  document.getElementById("demo").innerHTML = width * 1  + '%';
+		}
+	  }
+	}
+
+	function move1() {
+	  var elem = document.getElementById("yellowBar");   
+	  var width = 10;
+	  var id = setInterval(frame, 10);
+	  function frame() {
+		if (width >= 80) {
+		  clearInterval(id);
+		} else {
+		  width++; 
+		  elem.style.width = width + '%'; 
+		  document.getElementById("demo1").innerHTML = width * 1  + '%';
+		}
+	  }
+	}
+
+	function move2() {
+	  var elem = document.getElementById("redBar");   
+	  var width = 10;
+	  var id = setInterval(frame, 10);
+	  function frame() {
+		if (width >= 65) {
+		  clearInterval(id);
+		} else {
+		  width++; 
+		  elem.style.width = width + '%'; 
+		  document.getElementById("demo2").innerHTML = width * 1  + '%';
+		}
+	  }
+	}
+
+	function move3() {
+	  var elem = document.getElementById("greenBar");   
+	  var width = 10;
+	  var id = setInterval(frame, 10);
+	  function frame() {
+		if (width >= 75) {
+		  clearInterval(id);
+		} else {
+		  width++; 
+		  elem.style.width = width + '%'; 
+		  document.getElementById("demo3").innerHTML = width * 1  + '%';
+		}
+	  }
+	}
+	</script>
+	
+    <!-- Skill End -->
+	
+	<!-- Services Start -->
+    <div class="subcontent" id="service">
+        <span class="title">My Service</span>
+            <div>
+                <div class="service-box">
+                    <h4>HUA WEI</h4>
+                    <p>From 2008/12 To 2010/12</p>
+					<img class="service-icon" src="./img/huaweilogo.png"></i>
+                </div>
+                <div class="service-box">
+                    <h4>CALIX INC</h4>
+                    <p>From 2010/12 To 2017/12</p>
+					<img class="service-icon" src="./img/calixlogo.png"></i>
+                </div>
+                <div class="service-box">
+                    <h4>DB SCHENKER</h4>
+                    <p>From 2018/01 To 2020/06</p>
+					<img class="service-icon" src="./img/dblogo.png"></i>
+                </div>                
+			</div>
+    </div>
+	<!-- Services End -->
+	<!-- Certificate Start -->	
+	<div class="subcontent" id="certificate">
+        <span class="title">My Certificate</span>
+            <div class="slideshow-container" style="text-align:center;">
+				<div class="mySlides fade">
+				  <div class="numbertext">1 / 4</div>
+				  <img src="./img/testimonial-1.jpg" style="width: 700px; height: 500px;">
+				  <div class="text">ISTQB</div>
+				</div>
+				<div class="mySlides fade">
+				  <div class="numbertext">2 / 4</div>
+				  <img src="./img/testimonial-2.jpg" style="width: 700px; height: 500px;">
+				  <div class="text">BODY PUMP</div>
+				</div>
+				<div class="mySlides fade">
+				  <div class="numbertext">3 / 4</div>
+				  <img src="./img/testimonial-3.jpg" style="width: 700px; height: 500px;">
+				  <div class="text">BODY COMBAT</div>
+				</div>				
+				<div class="mySlides fade">
+				  <div class="numbertext">4 / 4</div>
+				  <img src="./img/testimonial-4.jpg" style="width: 700px; height: 500px;">
+				  <div class="text">CXWORX</div>
+				</div>
+			</div>
+			<br>
+			<div style="text-align:center">
+				  <span class="dot"></span> 
+				  <span class="dot"></span> 
+				  <span class="dot"></span>
+				  <span class="dot"></span>
+			</div>
+    </div>
+	<div class="backtop">
+		<button onclick="topFunction()" class="btn" id="myBtn">Go Top</button>	
+	</div>
+	
+	<script>
+	let slideIndex = 0;
+	showSlides();
+
+	function showSlides() {
+	  let i;
+	  let slides = document.getElementsByClassName("mySlides");
+	  let dots = document.getElementsByClassName("dot");
+	  for (i = 0; i < slides.length; i++) {
+		slides[i].style.display = "none";  
+	  }
+	  slideIndex++;
+	  if (slideIndex > slides.length) {slideIndex = 1}    
+	  for (i = 0; i < dots.length; i++) {
+		dots[i].className = dots[i].className.replace(" active", "");
+	  }
+	  slides[slideIndex-1].style.display = "block";  
+	  dots[slideIndex-1].className += " active";
+	  setTimeout(showSlides, 3000); // Change image every 2 seconds
+	}
+
+	//Get the button
+	var mybutton = document.getElementById("myBtn");
+
+	// When the user clicks on the button, scroll to the top of the document
+	function topFunction() {
+	  document.body.scrollTop = 0;
+	  document.documentElement.scrollTop = 0;
+	}
+</script>
+	<!-- Certificate End -->
+	
+	<!-- Footer Start -->
+    <footer>
+      <div class="footer-container">
+          <img src="logo.png" alt="" class="logo">
+          <div class="social-media">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          </div>
+          <p class="rights-text">© 2022 Created By <b>Nan Zhou</b>  All Rights Reserved.</p>
+      </div>
+	 </footer>
+    <!-- Footer End -->
+	
+</body>
+</html>
