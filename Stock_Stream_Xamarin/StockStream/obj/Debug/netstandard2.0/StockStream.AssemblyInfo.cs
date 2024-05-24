@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockStream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5950f78378f17bb65491f002b201b85ba06bc1d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d7d9b52f1e7850a94e1fcf2016007a117de5849")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockStream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockStream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

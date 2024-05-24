@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    企业概况_南京金宁
+{% endblock %}
+
+{% block content %}
+<!-- 广告横幅 -->
+<div class="container-fluid">
+    <div class="row">
+        <img class="img-responsive model-img" src="{% static 'img/about.jpg' %}">
+    </div>
+</div>
+<!-- 主体内容 -->
+<div class="container">
+    <div class="row row-3">
+        <!-- 侧边导航栏 -->
+        <div class="col-md-3">
+            <div class="model-title">
+                公司简介
+            </div>
+            <div class="model-list">
+                <ul class="list-group">
+                    <li class="list-group-item" id="survey">
+                        <a href="{% url 'aboutApp:survey' %}">企业概况</a>
+                    </li>
+                    <li class="list-group-item" id="honor">
+                        <a href="{% url 'aboutApp:honor' %}">荣誉资质</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- 说明文字和图片 -->
+        <div class="col-md-9">
+            <div class="model-details-title">
+                企业概况
+            </div>
+            <div class="model-details">
+                <div class="row" style="hight: 500px">
+                    <img class="img-responsive" src="{% static 'img/aboutCompany.jpg' %}">
+                </div>
+                <p>南京金宁工程塑料有限公司是一家从事各类高性能工程塑料和塑料制品研发、生产、销售及贸易的现代化企业。企业坐落于环境优美、交通便利的六朝古都江宁工业园。</p>
+                <p>公司的研发团队由数位工程塑料专家组成，引入国内外知名学者，将国际先进的工程塑料技术和现代管理与市场需求相结合，
+                    紧紧围绕客户的需求进行研发、生产、销售及服务，并为客户提供量身定做的产品及解决方案，不断开发出优质产品来满足国内外市场的需求。</p> 
+                <p>司通过对ISO9001:2000质量保证体系多年的实施和提升确保了产品质量长期以来的稳定可靠性，公司并于2013年获得ISO/TS16949:2009质量体系认证，
+                     2015年公司荣获高新技术企业称号。</p> 
+                <p>公司有现代化的高效管理；有先进的配方技术；有优良的生产设备与检测设备；有严格的品质控制系统和专业的技术服务队伍，
+                所以我们能提供高性价比的产品，提升客户的竞争力。</p>
+                <p>公司秉承“诚信、创新、共赢”的企业理念，致力于为客户提供一流的产品和服务，我们将携手每一位客户站立在工程塑料的前沿!</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

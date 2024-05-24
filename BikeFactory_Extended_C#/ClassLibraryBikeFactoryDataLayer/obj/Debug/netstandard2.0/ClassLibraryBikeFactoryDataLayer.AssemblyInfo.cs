@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibraryBikeFactoryDataLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d7d9b52f1e7850a94e1fcf2016007a117de5849")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLibraryBikeFactoryDataLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLibraryBikeFactoryDataLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
