@@ -12,6 +12,7 @@
         <link href="{% static 'products.css' %}" rel="stylesheet">
         <script src="{% static 'bootstrap/js/jquery.min.js' %}"></script>
         <script src="{% static 'bootstrap/js/bootstrap.min.js' %}"></script>
+    
     </head>
     <body>
     {#导航条#}
@@ -42,9 +43,9 @@
                     <li class="dropdown nav-top">
                         <a href="#" class="dropdown-toggle on big-font" data-toggle="dropdown">产品中心</a>
                         <ul class="dropdown-menu">
-                            <li><a href="{% url 'productsApp:daqi' %}">大气污染防治设备</a></li>
-                            <li><a href="{% url 'productsApp:lihua' %}">物理化学处理设备</a></li>
-                            <li><a href="{% url 'productsApp:fengji' %}">风机</a></li>
+                            <li><a href="{% url 'productsApp:products' 'daqi' %}">大气污染防治设备</a></li>
+                            <li><a href="{% url 'productsApp:products' 'lihua' %}">物理化学处理设备</a></li>
+                            <li><a href="{% url 'productsApp:products' 'fengji' %}">风机</a></li>
                         </ul>
                     </li>
                     <li class="dropdown nav-top">
@@ -86,16 +87,16 @@
             <div class="col-md-3">
                 <dl>
                     <dt>产品中心</dt>
-                    <dd><a href="/productsApp/products/daqi/">大气污染防治设备</a></dd>
-                    <dd><a href="/productsApp/products/lihua/">物理化学处理设备</a></dd>
-                    <dd><a href="/productsApp/products/fengji/">风机</a></dd>
+                    <dd><a href="/products/products/daqi/">大气污染防治设备</a></dd>
+                    <dd><a href="/products/products/lihua/">物理化学处理设备</a></dd>
+                    <dd><a href="/products/products/fengji/">风机</a></dd>
                 </dl>
             </div>
             <div class="col-md-3">
                 <dl>
                     <dt>人才招聘</dt>
-                    <dd><a href="/contactApp/contact/">联系我们</a></dd>
-                    <dd><a href="/contactApp/recruit/">加入金宁</a></dd>
+                    <dd><a href="/contact/contact/">联系我们</a></dd>
+                    <dd><a href="/contact/recruit/">加入金宁</a></dd>
                 </dl>
             </div>
             <div class="col-md-3" id="wx">

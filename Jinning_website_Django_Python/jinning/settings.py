@@ -83,6 +83,7 @@ WSGI_APPLICATION = 'jinning.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
+# 本地数据库配置
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -93,6 +94,19 @@ DATABASES = {
         'PORT': '3306',
     }
 }
+
+# 线上数据库配置
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'cilin$jinning',    # 数据库名称，与上一步中创建的数据库名称相同
+#         'USER': 'cilin',    # 数据库用户名
+#         'PASSWORD': 'cilin3851545',  # 数据库密码
+#         'HOST': 'cilin.mysql.pythonanywhere-services.com',  # 在PythonAnywhere上MySQL的主机名
+#         'PORT': '3306',  # MySQL默认端口
+#     }
+# }
+
 
 
 # Password validation

@@ -1,5 +1,8 @@
 import os
-import pythoncom
+import smtplib
+import ssl
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 from django.core.mail import send_mail
 from django.db.models.signals import post_init, post_save
 from django.dispatch import receiver
@@ -7,82 +10,67 @@ from docx.shared import Mm
 from docxtpl import DocxTemplate, InlineImage
 from contactApp.models import Resume
 from docx2pdf import convert
-import smtplib
-import ssl
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 
-
-# 自定义邮件发送函数
+# Custom email sending function using smtplib
 def send_custom_mail(subject, body, from_email, to_email):
-    # 设置邮件内容
+    # Set up the email content
     message = MIMEMultipart()
     message["Subject"] = subject
     message["From"] = from_email
     message["To"] = to_email
     message.attach(MIMEText(body, "plain"))
 
-    # 创建SSL上下文对象
+    # Create SSL context
     context = ssl.create_default_context()
 
     try:
-        # 连接到SMTP服务器
+        # Connect to SMTP server
         with smtplib.SMTP("smtp.gmail.com", 587) as server:
-            server.ehlo()  # 可选
-            server.starttls(context=context)  # 开始TLS加密
-            server.ehlo()  # 可选
+            server.ehlo()  # Optional
+            server.starttls(context=context)  # Start TLS encryption
+            server.ehlo()  # Optional
 
-            # 登录到SMTP服务器
+            # Login to SMTP server
             server.login(from_email, "abwuglmxxdtxtotu")
 
-            # 发送邮件
+            # Send email
             server.sendmail(from_email, to_email, message.as_string())
             print("Email sent successfully!")
     except Exception as e:
         print(f"Error occurred: {e}")
 
-# 测试发送邮件
-subject = "Test Email"
-body = "Jinning website is startup."
-from_email = "jonah.zhou.js@gmail.com"
-to_email = "249898221@qq.com"
-password = "abwuglmxxdtxtotu"
-
-# send_custom_mail(subject, body, from_email, to_email)
-
-# 触发器
+# Trigger functions
 @receiver(post_init, sender=Resume)
 def before_save_resume(sender, instance, **kwargs):
-    """触发器，post_init表示在实例初始化时触发，记录当前状态"""
-    instance.__original_status = instance.status  # 记录点击前的状态
-
+    """Trigger: post_init is called when an instance is initialized."""
+    instance.__original_status = instance.status  # Record the original status
 
 @receiver(post_save, sender=Resume)
 def post_save_resume(sender, instance, **kwargs):
-    """触发器，当管理员修改面试成绩“通过”之后触发，@receiver第一个参数为实例保存后触发"""
-    email = instance.email  # 获取到应聘者邮箱
-    EMAIL_FROM = 'jonah.zhou.js@gmail.com'  # 发送者邮箱
+    """Trigger: post_save is called after an instance is saved."""
+    email = instance.email  # Get applicant's email
+    EMAIL_FROM = 'jonah.zhou.js@gmail.com'  # Sender's email
 
-    # 确保之前的状态和当前状态不同
+    # Check if the previous status is different from the current status
     if hasattr(instance, '__original_status'):
         if instance.__original_status == 1 and instance.status == 2:
-            email_title = '金宁工程塑料有限公司招聘初试结果'
-            email_body = '恭喜您通过本企业的初试，请您本周到公司进行第二次面试！'
+            email_title = 'Interview Result from Jinning Engineering Plastics Co., Ltd.'
+            email_body = 'Congratulations on passing the initial interview! Please visit our company for the second interview this week!'
             send_custom_mail(email_title, email_body, EMAIL_FROM, email)
             generate_documents(instance)
         elif instance.__original_status == 1 and instance.status == 3:
-            email_title = '金宁工程塑料有限公司招聘初试结果'
-            email_body = '很遗憾，您未能通过本企业的初试，感谢您的关注！'
+            email_title = 'Interview Result from Jinning Engineering Plastics Co., Ltd.'
+            email_body = 'We regret to inform you that you did not pass the initial interview. Thank you for your interest.'
             send_custom_mail(email_title, email_body, EMAIL_FROM, email)
 
-
 def generate_documents(instance):
-    # 生成动态word
+    # Generate dynamic word document
     template_path = os.path.join(os.getcwd(), "media", "contact", "recruit.docx")
-    print(template_path)
-    # 调用模板
+
+    # Load template
     template = DocxTemplate(template_path)
-    # 从实例中获取当前的字段
+
+    # Context data for template rendering
     context = {
         'name': instance.name,
         'personID': instance.personID,
@@ -94,19 +82,23 @@ def generate_documents(instance):
         'major': instance.major,
         'position': instance.position,
         'experience': instance.experience,
-        'photo': InlineImage(template, instance.photo, width=Mm(30), height=Mm(40)),
+        # Ensure the following line works correctly without errors
+        # 'photo': InlineImage(template, instance.photo, width=Mm(30), height=Mm(40)),
     }
+
+    # Render the template
     template.render(context)
-    # 存储文件的路径
-    filename = os.path.join(os.getcwd(), "media", "contact", "recruit", "%s_%d.docx" % (instance.name, instance.id))
-    template.save(filename)
 
-    # 调用CoInitialize创建pdf文档
-    pythoncom.CoInitialize()
-    # word转pdf
-    if os.path.exists(filename):  # 判断是否存在该word文件
-        pdf_filename = os.path.join(os.getcwd(), "media", "contact", "recruit", "%s_%d.pdf" % (instance.name, instance.id))
-        convert(filename, pdf_filename)  # 将word转为pdf
+    # File paths
+    docx_filename = os.path.join(os.getcwd(), "media", "contact", "recruit", f"{instance.name}_{instance.id}.docx")
+    pdf_filename = os.path.join(os.getcwd(), "media", "contact", "recruit", f"{instance.name}_{instance.id}.pdf")
+
+    # Save the rendered template as DOCX
+    template.save(docx_filename)
+
+    # Convert DOCX to PDF
+    if os.path.exists(docx_filename):
+        convert(docx_filename, pdf_filename)
+        print("PDF conversion successful")
     else:
-        print("word文件不存在")
-
+        print("DOCX file does not exist")

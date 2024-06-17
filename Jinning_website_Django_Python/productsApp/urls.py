@@ -5,7 +5,6 @@ from productsApp import views
 app_name = 'productsApp'
 
 urlpatterns = [
-    path('daqi/', views.daqi, name='daqi'),
-    path('lihua/', views.lihua, name='lihua'),
-    path('fengji/', views.fengji, name='fengji'),
+    path('products/<str:productName>/', views.products, name='products'),
+    path('products_details/<int:id>/', views.product_detail, name="products_details"),
 ]
